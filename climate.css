@@ -82,11 +82,19 @@ article a:hover{
     background-color: #f3be00;
     transition:0.5s ease;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> e85cc1860cf8ce9018ddbbcaf50f4a0450d2397a
 @media screen and (max-width: 1150px){
     .img-section{
         margin-right: 2em;
     }
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> e85cc1860cf8ce9018ddbbcaf50f4a0450d2397a
 @media screen and (max-width: 965px)
 {
     .climate-container{
